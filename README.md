@@ -24,7 +24,9 @@
     
    Repository
    ============
+   
    If you are extending this interface, you have to declare your own methods and the implementations will be provided by the spring run-time. For this interface also we have to pass two parameters:type of the entity and type of the entity’s id field.Â This is the super interface for CrudRepository.
+   
    CrudRepository
    ===============
    CrudRepository provides methods for the CRUD operations.
