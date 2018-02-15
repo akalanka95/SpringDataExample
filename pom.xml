@@ -58,8 +58,6 @@
 			<artifactId>spring-boot-starter-actuator</artifactId>
 			<scope>test</scope>
 		</dependency>
-
-
 	</dependencies>
 
 	<build>
