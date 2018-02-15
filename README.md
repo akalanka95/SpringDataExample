@@ -36,4 +36,9 @@
    *  void delete(T entity)
    *  boolean exists(ID primaryKey)
    
+   JpaRepository
+   ==============
+   
+   JpaRepository returns List type of entities and CrudRepository returns Iterable type of entities.Where as JpaRepository extends from PagingAndSortingRepository which inturen extends from the CrudeRepository.
+   
    
